@@ -1,0 +1,10 @@
+INTRODUCTION TO SPRING BOOT AND BASICS OF API:
+• Basics of API
+• Status Codes in API
+• Types of API requests
+• What is a Web Framework?
+• Introduction to Spring Framework
+• What is Spring Boot?
+• Spring Boot Architecture
+
+

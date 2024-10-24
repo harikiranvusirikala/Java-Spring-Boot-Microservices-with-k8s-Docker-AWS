@@ -8,3 +8,19 @@ INTRODUCTION TO SPRING BOOT AND BASICS OF API:
 • Spring Boot Architecture
 
 
+Basics of API:
+---
+API - Application Programming Interface
+Set or rules and protocols - to communicate between software applications
+
+APIs needed for:
+• Share data
+• Speed up development
+• Extend the reach and functionality of software
+
+Types of API:
+Internal API's - in company
+External API's - public, like google/twitter/facebook
+Partner API's - from company partnered with
+
+

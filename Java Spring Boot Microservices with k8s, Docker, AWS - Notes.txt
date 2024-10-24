@@ -45,3 +45,11 @@ Common Status Codes:
 500 Internal Server Error
 
 
+Types of API requests:
+---
+GET Request - Get conent, only read, 200 ok 404 not found
+POST Request - create content, 201 created 404 not found 400 bad request
+PUT Request - update existing content, 200 ok 404 not found 400 bad request
+DELETE Request - only delete, 200 ok 404 not found 400 bad request
+
+

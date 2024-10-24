@@ -24,3 +24,24 @@ External API's - public, like google/twitter/facebook
 Partner API's - from company partnered with
 
 
+Status Codes in API:
+---
+Classification of Status Code:
+1xx informational
+2xx successful
+3xx redirection
+4xx client error
+5xx server error
+
+Common Status Codes:
+200 Success
+201 Created
+204 No Content
+301 Moved Permanently
+400 Bad request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+500 Internal Server Error
+
+

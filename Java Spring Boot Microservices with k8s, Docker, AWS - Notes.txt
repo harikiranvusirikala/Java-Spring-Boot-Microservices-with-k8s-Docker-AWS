@@ -53,3 +53,18 @@ PUT Request - update existing content, 200 ok 404 not found 400 bad request
 DELETE Request - only delete, 200 ok 404 not found 400 bad request
 
 
+What is Web Framework?:
+---
+Website have a lot in common like Security, Databases, URLs, Authentications, etc.
+Should we do every thing from scratch?
+
+Web Framework is nothing but collection of tools and modules that is needed to do standard tasks  across every web application.
+
+Popular Web Frameworks:
+• Spring Boot(Java)
+• Django (Python)
+• Flask (Python) - Lightweight flexible, for small projects where we need more control over the code
+• Express (JavaScript) - part of MEAN or MERN stack, widely used for building APIs
+• Ruby on Rails (Ruby) - known for philosophy of convention over configuration, helps increase productivity once we understands it's conventions.
+
+

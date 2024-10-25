@@ -68,3 +68,45 @@ Popular Web Frameworks:
 • Ruby on Rails (Ruby) - known for philosophy of convention over configuration, helps increase productivity once we understands it's conventions.
 
 
+Introduction to Spring Framework
+---
+Features of Spring Framework:
+• Inversion of Control (IoC) 
+- Reduces dependency and increases flexibility for developers.
+- Spring framework manages the life cycle of the objects(called as beans here).
+- Spring does this with feature of Dependency Injection which allows it to define the dependency of the class externally and it provides them to the class whenever the class needs it during the  runtime.
+
+MessageService is a interface.
+Before:
+public SMSClient() {
+  this.messageService = new EmailService();
+}
+
+After:
+public SMSClient(MessageService messageService) {
+  this.messageService = messageService;
+}
+
+• Data Access
+- Has things like jdbc, hybernate, jpa - work with databases in easy way
+
+• MVC Framework (Model View Controller Framework)
+- Provides clear separation between model code and web form.
+
+• Transaction Management
+- Unified way to manage transactions across objects.
+
+• Security
+- Has aspect of security, Spring Security module provides features like authentication, protect from common site vulnerabilities, define authorization in application.
+
+• Testing Support
+- good framework for unit testing and integration purposes
+- features like Spring Test Context framework
+- good integration with frameworks like Junit, mokito, etc to write test cases and mocking, etc
+
+• Internationalization(i18n) and Localization(l10n)
+- build applications that can easily be adopted to different kinds of languages and locals.
+
+History - Rod Johnson started in 2002 with the goal to have lightweight approach to simplify Java Enterprise Edition (JEE).
+
+

@@ -1,4 +1,4 @@
-INTRODUCTION TO SPRING BOOT AND BASICS OF API:
+Section 1 - INTRODUCTION TO SPRING BOOT AND BASICS OF API:
 • Basics of API
 • Status Codes in API
 • Types of API requests
@@ -155,4 +155,11 @@ Service layer is where business logic resides in the application. Tasks such as 
 Data Access Layer:
 Data access layer is the layer where all the repository classes reside.
 
+
+
+Section 2 - Spring Boot 101: Building Our First REST API
+
+spring initializr - start.spring.io
+
+Spring Boot version with "(SNAPSHOT)" are no recommended for production as they are pre release versions.
 

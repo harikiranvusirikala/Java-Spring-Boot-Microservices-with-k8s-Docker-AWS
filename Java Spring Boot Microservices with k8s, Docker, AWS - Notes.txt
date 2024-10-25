@@ -139,3 +139,20 @@ Why do developers love Spring Boot?
 → Avoids boilerplate code and configurations
 
 
+Spring Boot Architecture
+---
+Following are the different tiers
+→ Presentation layer
+→ Service layer
+→ Data access layer
+
+Presentation Layer:
+Presentation layer presents the data and the application features to the user. This is the layer where in all the controller classes exist.
+
+Service Layer:
+Service layer is where business logic resides in the application. Tasks such as evaluations, decision making, processing of data is done at this layer.
+
+Data Access Layer:
+Data access layer is the layer where all the repository classes reside.
+
+

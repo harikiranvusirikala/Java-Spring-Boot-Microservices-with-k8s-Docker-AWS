@@ -110,3 +110,32 @@ public SMSClient(MessageService messageService) {
 History - Rod Johnson started in 2002 with the goal to have lightweight approach to simplify Java Enterprise Edition (JEE).
 
 
+What is Spring Boot?
+---
+Open-source, Java-based framework used to create stand-alone, production-grade Spring-based Applications.
+
+Offers a set of pre-configured components or defaults, and eliminating the need for a lot of boilerplate code that was involved in setting up a Spring application.
+
+Spring Boot = Spring Framework + Prebuilt Configuration + Embedded Servers
+
+Components of Spring Boot:
+• Spring Boot Starters - Set of convinent dependencies.
+• Auto Configuraiton - automatically configures the application, like if using database given database username and password in properties it will automatically configures the app to interact with database.
+• Spring Boot Actuator - monitoring your application, metric gathering, tracing our HTTP request, ...
+• Embedded Server - like Apache, Tomcat, Jetty. Allows to run application as a executable Standalone Jar file.
+• Spring Boot DevTools - enhance the productivity during the application development. Like automatic application restart or redployment, better/enhanced logging for faster development.
+
+Advantages of Spring Boot:
+• Standalone and Quick Start - Just run by jar, no need to starting server
+• Starter code
+• Less Configuration
+• Reduced cost and application development time
+
+Why do developers love Spring Boot?
+→ Java based
+→ Fast, easy
+→ Comes with embedded server
+→ Various plugins
+→ Avoids boilerplate code and configurations
+
+

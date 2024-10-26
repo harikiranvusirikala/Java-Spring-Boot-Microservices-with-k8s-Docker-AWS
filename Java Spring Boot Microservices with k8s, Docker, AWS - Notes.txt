@@ -163,3 +163,12 @@ spring initializr - start.spring.io
 
 Spring Boot version with "(SNAPSHOT)" are no recommended for production as they are pre release versions.
 
+
+Dependency:
+Makes things easy instead of reinventing the wheel.
+
+Need to go through following maven central repository for the once spring initializr doesn't, as it show only mostly used.
+search.maven.org / central.sonatype.com / mvnrepository.com
+
+spring initializer only shows stable versions.
+

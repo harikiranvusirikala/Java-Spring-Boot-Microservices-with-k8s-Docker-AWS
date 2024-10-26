@@ -188,3 +188,13 @@ Spring Boot has default Error page preconfigured for us, when unknown URI being 
 This is also done by Spring Boot Auto Configuration.
 
 
+application.properties:
+We get a pre configured application with Spring Boot, then customize using file application.properties.
+
+Common Application Properties
+- https://docs.spring.io/spring-boot/appendix/application-properties/index.html
+(use right nav to navigate to specific type: Eg: select Server Properties)
+
+By default application starts on port 8080. We can customize it with server.port=9090
+
+

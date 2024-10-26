@@ -172,3 +172,8 @@ search.maven.org / central.sonatype.com / mvnrepository.com
 
 spring initializer only shows stable versions.
 
+
+Creating Hello World API:
+@RestController is mainly combination of @Controller and @ResponseBody. Used when having a mapping.
+
+

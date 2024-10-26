@@ -177,3 +177,14 @@ Creating Hello World API:
 @RestController is mainly combination of @Controller and @ResponseBody. Used when having a mapping.
 
 
+Spring Boot Auto Configuration:
+The tomcat was ran automatically when we start the Spring Boot application, it is done by Auto Configuration.
+
+@RestController annotation means it is a Controller and it should handle HTTP requests.
+Therefore it creats a bean for this class, an object managed Spring, in the application context and it is mapped to the controller.
+We just need to specify @RestController annotation and Spring Boot handles it.
+ 
+Spring Boot has default Error page preconfigured for us, when unknown URI being requested.
+This is also done by Spring Boot Auto Configuration.
+
+
